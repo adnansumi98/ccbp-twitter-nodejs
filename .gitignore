@@ -123,3 +123,8 @@ pnpm-debug.log
 .theia
 
 .results
+package-lock.json
+twitterClone.db
+test.sql
+solution.http
+solution.js
